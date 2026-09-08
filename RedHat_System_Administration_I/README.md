@@ -10,7 +10,7 @@
 
 ---
 
-## 📘 RH124 ![In Progress](https://img.shields.io/badge/In%20Progress-13%25-orange)
+## 📘 RH124 ![In Progress](https://img.shields.io/badge/In%20Progress-21%25-orange)
 
 - [**Chapter 1: Introduction to Red Hat Enterprise Linux**](./Chapter_1/)
 
