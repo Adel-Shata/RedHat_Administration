@@ -15,7 +15,7 @@
 
 <br>
   
-## 📙 Red Hat System Administration I 10.0 ![Coming soon...](https://img.shields.io/badge/Coming%20soon...-0%25-red)
+## 📙 Red Hat System Administration II 10.0 ![Coming soon...](https://img.shields.io/badge/Coming%20soon...-0%25-red)
 
 
 <br>
