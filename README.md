@@ -10,7 +10,7 @@
 
 ---
 
-## [📘 Red Hat System Administration I 10.0](./RedHat_System_Administration_I/)  ![In Progress](https://img.shields.io/badge/In%20Progress-31%25-orange)
+## [📘 Red Hat System Administration I 10.0](./RedHat_System_Administration_I/)  ![In Progress](https://img.shields.io/badge/In%20Progress-21%25-orange)
 
 
 <br>
