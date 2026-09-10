@@ -16,14 +16,28 @@
 
   ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
 
-- [**Chapter 2: Accessing the Command Line**](./Chapter_2/) 
+- [**Chapter 2: Accessing the Command Line**](./Chapter_2/)
 
   ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
 
-- [**Chapter 3.  Getting Help from Local Documentation**](./Chapter_3/) 
+- [**Chapter 3.  Getting Help from Local Documentation**](./Chapter_3/)
+
+  ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
+
+- [**Chapter 4.  Registering Systems for Red Hat Support**](./Chapter_4/)
+
+  ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
+
+- [**Chapter 4.  Registering Systems for Red Hat Support**](./Chapter_4/)
+
+  ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
+
+- [**Chapter 5.  Getting AI-assisted Help with Red Hat Enterprise Linux Lightspeed**](./Chapter_5/)
+
+  ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
+
+- [**Chapter 6.  Navigating the File-system Hierarchy**](./Chapter_6/)
 
   ![Progress](https://img.shields.io/badge/100%25%20Completed-brightgreen)
 
 - More chapters coming soon...
-
-
